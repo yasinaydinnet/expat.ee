@@ -11,6 +11,7 @@ job search websites:
 - genel: https://www.monster.com/
 - genel: http://www.frazerjones.com/
 - genel: https://tr.indeed.com/
+- https://outtalent.com/
 
 job search (remote):
 - https://weworkremotely.com/
