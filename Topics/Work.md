@@ -1,3 +1,5 @@
+job search websites:
+
 - rusya ve çevresi: https://hh.ru/
 - ingiltere: https://www.reed.co.uk/
 - ingiltere: https://www.totaljobs.com/
@@ -9,3 +11,6 @@
 - genel: https://www.monster.com/
 - genel: http://www.frazerjones.com/
 - genel: https://tr.indeed.com/
+
+job search (remote):
+- https://weworkremotely.com/
