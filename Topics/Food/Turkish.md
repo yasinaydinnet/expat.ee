@@ -1,4 +1,0 @@
-- https://www.facebook.com/BBQTurgi/
-- istkebab
-- squarekebab
-- terrass
