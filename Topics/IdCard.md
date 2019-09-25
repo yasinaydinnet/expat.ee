@@ -9,7 +9,7 @@
 ### with id card:
 - buy or get an id card reader
 - change your id card passwords
-- update your certiifcate if necessary
+- update your certificate if necessary
 - update your data in card if you need
 
 ### sim card:
