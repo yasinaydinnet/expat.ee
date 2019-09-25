@@ -14,7 +14,7 @@ sim card:
 - install and activate your smart id
 
 other:
-- create a bank accou nt
+- create a bank account
 
 housing and travel:
 - give your id code info to landlord
