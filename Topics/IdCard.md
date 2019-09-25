@@ -19,10 +19,10 @@ Follow in numbered order
 - activate your mobile id
 
 3 smart id:
-- instlal smart id
-- if you did step 2, activate by yourself
-- if you didnt do step 2, go to bank to activate
-- install and activate your smart id
+- install smart id
+- if you have id card reader, you should be able to activate by yourself
+- if you have mobile id, you should be able to activate by yourself
+- else, go to bank to activate
 
 3 bank account
 - go to lhv, swedbank or seb to create a bank account
