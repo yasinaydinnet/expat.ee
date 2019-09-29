@@ -2,6 +2,7 @@
 
 International:
 - https://github.com/poteto/hiring-without-whiteboards
+- https://news.ycombinator.com/item?id=20867123
 
 Estonia:
 - Meetfranks
