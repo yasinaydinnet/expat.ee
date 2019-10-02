@@ -1,11 +1,44 @@
 # Job Search
 
+
+
+## Estonian Companies
+
+- [AdCash](https://adcash.workable.com/)
+- [Bolt](https://careers.bolt.eu/)
+- [Cleveron](https://cleveron.com/careers)
+- [GuardTime](https://guardtime.com/about/jobs)
+- [Monese](https://careers.monese.com/jobs)
+- [Pipedrive](https://www.pipedrive.com/en/jobs)
+- [Ridango](https://ridango.com/join-us/)
+- [Starship Technologies](https://www.starship.xyz/careers/)
+
+## Companies in Estonia
+
+- [APL](https://career2.successfactors.eu/career?company=C0002716868P&site=VjItSmFoc1VqUEliN25XSmxwcnB4TjZ5QT09)
+- [CMA CGM](https://career2.successfactors.eu/portalcareer?company=C0002716868P)
+- [Nortal](https://nortal.com/careers/#c-job-offers)
+
+Estonia:
+- Meetfranks
+- https://www.workinestonia.com/latest-offers/
+- https://www.europeanjobdays.eu/en/events/enter-estonia
+- https://www.workinestonia.com/how-to-get-a-job-in-estonia-europe-tips-and-tricks/
+- https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/
+- nortal
+- https://goworkabit.com/?lang=en
+
+
+---
+
 ## International Hiring Related Websites
 
 - [AngelList (angel.co)](https://angel.co/jobs#find/f!%7B%22locations%22%3A%5B%22398235-Tallinna%20linn%2C%20Estonia%22%5D%7D)
 - [Glassdoor](https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919.htm)
 - [Jobvertise](http://www.jobvertise.com/jobs/search?query=&city=&country=EE&button=Search+Jobs)
 - [Linkedin ***](https://www.linkedin.com/jobs/search/?geoId=102974008&location=Estonia)
+
+---
 
 ## Online/Freelance
 
@@ -26,14 +59,3 @@ Sources:
 International:
 - https://github.com/poteto/hiring-without-whiteboards
 - https://news.ycombinator.com/item?id=20867123
-
-
-Estonia:
-- Meetfranks
-- https://www.workinestonia.com/latest-offers/
-- https://www.europeanjobdays.eu/en/events/enter-estonia
-- https://www.workinestonia.com/how-to-get-a-job-in-estonia-europe-tips-and-tricks/
-- https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/
-- starship
-- nortal
-- https://goworkabit.com/?lang=en
