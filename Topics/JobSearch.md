@@ -1,12 +1,18 @@
 # Job Search
 
-Table of Contents:
-- [Estonian Job Searching Websites](#estonian-job-searching-websites)
-- [Estonian Startups](#estonian-startups)
-- [Driver/Courier](#drivercourier)
-- [International Companies in Estonia](#international-companies-in-estonia)
-- [International Hiring Related Websites](#international-hiring-related-websites)
-- [Online/Freelance](#onlinefreelance)
+- [Job Search](#job-search)
+  * [Mobile Applications](#mobile-applications)
+  * [Facebook Groups](#facebook-groups)
+  * [Estonian Job Searching Websites](#estonian-job-searching-websites)
+  * [Estonian Startups and Companies](#estonian-startups-and-companies)
+  * [Driver and Courier](#driver-and-courier)
+  * [International Companies in Estonia](#international-companies-in-estonia)
+  * [International Hiring Related Websites](#international-hiring-related-websites)
+  * [Online and Freelance](#online-and-freelance)
+  * [Remote](#remote)
+  * [Other Information](#other-information)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ---
 
@@ -43,7 +49,7 @@ Also has jobs:
 
 ---
 
-## Estonian Startups & Companies
+## Estonian Startups and Companies
 
 Estonian Startups:
 - [AdCash](https://adcash.workable.com/)
@@ -73,7 +79,7 @@ These are startup programs:
 
 ---
 
-## Driver/Courier
+## Driver and Courier
 
 Ride sharing:
 - [Bolt](https://partners.bolt.eu/driver-signup)
@@ -112,7 +118,7 @@ Food delivery:
 
 ---
 
-## Online/Freelance
+## Online and Freelance
 
 Challenges:
 - Finding a job might take some 
@@ -136,7 +142,7 @@ Sources:
 
 ---
 
-### Other Information
+## Other Information
 
 - [tips on where to look for a job in estonia - workinestonia.com](https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/)
 - [Working - studyinestonia.ee](http://studyinestonia.ee/en/working)
