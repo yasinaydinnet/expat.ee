@@ -10,23 +10,23 @@ Table of Contents
 
 ---
 
-Estonia:
-- Meetfranks
-- https://www.tootukassa.ee/toopakkumised
+## Mobile Applications
 
+- [MeetFrank](https://meetfrank.com/)
 
-International:
-- https://github.com/poteto/hiring-without-whiteboards
-- https://news.ycombinator.com/item?id=20867123
-
-
+---
 
 ## Facebook Groups
 
 Job-related:
+- [Best Jobs Estonia, Tallinn](https://www.facebook.com/groups/I8834/)
 - [Expat Jobs in Tallinn](https://www.facebook.com/groups/1602386729990915/)
+- [Multilingual Jobs in Estonia](https://www.facebook.com/groups/480101142409536/)
+- [Job Offers in Estonia - http://estonia.jobrat.net](https://www.facebook.com/groups/vacantes.estonia/)
+- [Work in Estonia](https://www.facebook.com/groups/workinestonia/?)
 
 Also has jobs:
+- [Expat spouses/partners in Tallinn – networking group](https://www.facebook.com/groups/1525721910790126/)
 - [Expats in Tallinn/Estonia](https://www.facebook.com/groups/166477880066544/)
 - [Expats in Tallinn, Estonia](https://www.facebook.com/groups/1395659303995885/)
 
@@ -95,8 +95,9 @@ Food delivery:
 
 - [AngelList (angel.co)](https://angel.co/jobs#find/f!%7B%22locations%22%3A%5B%22398235-Tallinna%20linn%2C%20Estonia%22%5D%7D)
 - [Glassdoor](https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919.htm)
+- [Jobrat](http://estonia.jobrat.net/)
 - [Jobvertise](http://www.jobvertise.com/jobs/search?query=&city=&country=EE&button=Search+Jobs)
-- [Linkedin ***](https://www.linkedin.com/jobs/search/?geoId=102974008&location=Estonia)
+- [Linkedin](https://www.linkedin.com/jobs/search/?geoId=102974008&location=Estonia)
 
 ---
 
@@ -121,3 +122,6 @@ Sources:
 
 - [tips on where to look for a job in estonia - workinestonia.com](https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/)
 - [Working - studyinestonia.ee](http://studyinestonia.ee/en/working)
+- https://www.tootukassa.ee/toopakkumised
+- https://github.com/poteto/hiring-without-whiteboards
+- https://news.ycombinator.com/item?id=20867123
