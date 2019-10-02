@@ -3,6 +3,7 @@
 
 Estonia:
 - Meetfranks
+- https://www.tootukassa.ee/toopakkumised
 - https://www.workinestonia.com/latest-offers/
 - https://www.europeanjobdays.eu/en/events/enter-estonia
 - https://www.workinestonia.com/how-to-get-a-job-in-estonia-europe-tips-and-tricks/
@@ -47,10 +48,25 @@ These are startup programs:
 
 ---
 
+## Driver/Courier
+
+Ride sharing:
+- [Bolt](https://partners.bolt.eu/driver-signup)
+- [Uber](https://www.uber.com/a/join-new)
+- [Yandex Taxi](http://yandex-taxi.ee/en/)
+
+Food delivery:
+- [Bolt food](https://food.bolt.eu/en-us/)
+- [Tellitoit](https://www.tellitoit.ee/tookuulutused?lang=en)
+- [Wolt](https://wolt.com/couriers)
+
+---
+
 ## International Companies in Estonia
 
 - [APL](https://career2.successfactors.eu/career?company=C0002716868P&site=VjItSmFoc1VqUEliN25XSmxwcnB4TjZ5QT09)
 - [CMA CGM](https://career2.successfactors.eu/portalcareer?company=C0002716868P)
+- [FLIR](https://flir.wd1.myworkdayjobs.com/flircareers/jobs)
 - [Kuehne+Nagel](https://jobs.kuehne-nagel.com/global/en/search-results?qcountry=ESTONIA)
 - [Nortal](https://nortal.com/careers/#c-job-offers)
 - [Rakuten](https://talent.rakuten.careers/jobs/search/4089861)
