@@ -1,22 +1,19 @@
 # Job Search
 
-[Job Search](#job-search)
-  - [Estonian Job Searching Websites](#estonian-job-searching-websites)
-  - [Estonian Startups](#estonian-startups)
-  - [Driver/Courier](#drivercourier)
-  - [International Companies in Estonia](#international-companies-in-estonia)
-  - [International Hiring Related Websites](#international-hiring-related-websites)
-  - [Online/Freelance](#onlinefreelance)
+Table of Contents
+- [Estonian Job Searching Websites](#estonian-job-searching-websites)
+- [Estonian Startups](#estonian-startups)
+- [Driver/Courier](#drivercourier)
+- [International Companies in Estonia](#international-companies-in-estonia)
+- [International Hiring Related Websites](#international-hiring-related-websites)
+- [Online/Freelance](#onlinefreelance)
 
 ---
 
 Estonia:
 - Meetfranks
 - https://www.tootukassa.ee/toopakkumised
-- https://www.workinestonia.com/latest-offers/
-- https://www.europeanjobdays.eu/en/events/enter-estonia
-- https://www.workinestonia.com/how-to-get-a-job-in-estonia-europe-tips-and-tricks/
-- https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/
+
 
 International:
 - https://github.com/poteto/hiring-without-whiteboards
@@ -24,14 +21,24 @@ International:
 
 
 
+## Facebook Groups
 
+Job-related:
+- [Expat Jobs in Tallinn](https://www.facebook.com/groups/1602386729990915/)
 
+Also has jobs:
+- [Expats in Tallinn/Estonia](https://www.facebook.com/groups/166477880066544/)
+- [Expats in Tallinn, Estonia](https://www.facebook.com/groups/1395659303995885/)
+
+---
 
 ## Estonian Job Searching Websites
 
 - [CV.ee](https://www.cv.ee/english)
 - [CV Keskus](https://www.cvkeskus.ee/)
+- [EJ.ee - EkspressJob](http://www.ej.ee/eng/?)
 - [StartUs](https://www.startus.cc/jobs/estonia)
+- [Work In Estonia](https://www.workinestonia.com/latest-offers/)
 
 ---
 
@@ -107,3 +114,10 @@ Sources:
 - [HubStaff](https://talent.hubstaff.com/search/jobs)
 - [Toptal](https://www.toptal.com/)
 - [Upwork](https://www.upwork.com/)
+
+---
+
+### Other Information
+
+- [tips on where to look for a job in estonia - workinestonia.com](https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/)
+- [Working - studyinestonia.ee](http://studyinestonia.ee/en/working)
