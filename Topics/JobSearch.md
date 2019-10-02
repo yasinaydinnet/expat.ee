@@ -7,8 +7,6 @@ Estonia:
 - https://www.europeanjobdays.eu/en/events/enter-estonia
 - https://www.workinestonia.com/how-to-get-a-job-in-estonia-europe-tips-and-tricks/
 - https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/
-- nortal
-- https://goworkabit.com/?lang=en
 
 International:
 - https://github.com/poteto/hiring-without-whiteboards
@@ -55,6 +53,9 @@ These are startup programs:
 - [CMA CGM](https://career2.successfactors.eu/portalcareer?company=C0002716868P)
 - [Kuehne+Nagel](https://jobs.kuehne-nagel.com/global/en/search-results?qcountry=ESTONIA)
 - [Nortal](https://nortal.com/careers/#c-job-offers)
+- [Rakuten](https://talent.rakuten.careers/jobs/search/4089861)
+- [SportRadar](https://www.sportradar.com/about-us/make-the-team/all-jobs/)
+- [Twilio](https://www.twilio.com/company/jobs#open-positions)
 
 ---
 
