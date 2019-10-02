@@ -2,16 +2,23 @@
 
 ## International Hiring Related Websites
 
-- [AngelList (angel.co)](https://angel.co/jobs#find/f!{"locations":["398235-Tallinna linn, Estonia"]})
+- [AngelList (angel.co)](https://angel.co/jobs#find/f!%7B%22locations%22%3A%5B%22398235-Tallinna%20linn%2C%20Estonia%22%5D%7D)
 - [Glassdoor](https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919.htm)
 - [Jobvertise](http://www.jobvertise.com/jobs/search?query=&city=&country=EE&button=Search+Jobs)
+- [Linkedin ***](https://www.linkedin.com/jobs/search/?geoId=102974008&location=Estonia)
 
-## Working Platforms
+## Online/Freelance
 
-- [Workable](https://www.workable.com/)
+Challenges:
+- Finding a job might take some 
+- Too much competititon
+- Payment might be lower
 
-## Remote/Freelance
-
+Sources:
+- [Fiverr](https://www.fiverr.com/)
+- [Freelancer](https://www.freelancer.com/jobs/)
+- [Guru](https://www.guru.com/)
+- [HubStaff](https://talent.hubstaff.com/search/jobs)
 - [Toptal](https://www.toptal.com/)
 - [Upwork](https://www.upwork.com/)
 
@@ -19,8 +26,7 @@
 International:
 - https://github.com/poteto/hiring-without-whiteboards
 - https://news.ycombinator.com/item?id=20867123
-- 
-- https://www.workable.com/
+
 
 Estonia:
 - Meetfranks
