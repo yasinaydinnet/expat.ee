@@ -1,6 +1,6 @@
 # Job Search
 
-Table of Contents
+Table of Contents:
 - [Estonian Job Searching Websites](#estonian-job-searching-websites)
 - [Estonian Startups](#estonian-startups)
 - [Driver/Courier](#drivercourier)
@@ -38,12 +38,14 @@ Also has jobs:
 - [CV Keskus](https://www.cvkeskus.ee/)
 - [EJ.ee - EkspressJob](http://www.ej.ee/eng/?)
 - [StartUs](https://www.startus.cc/jobs/estonia)
+- [Töötukassa](https://www.tootukassa.ee/eng/toopakkumised)
 - [Work In Estonia](https://www.workinestonia.com/latest-offers/)
 
 ---
 
-## Estonian Startups
+## Estonian Startups & Companies
 
+Estonian Startups:
 - [AdCash](https://adcash.workable.com/)
 - [Bolt](https://careers.bolt.eu/)
 - [Cleveron](https://cleveron.com/careers)
@@ -54,6 +56,13 @@ Also has jobs:
 - [Starship Technologies](https://www.starship.xyz/careers/)
 - [Thorgate](https://thorgate.eu/jobs/)
 - [Transferwise](https://transferwise.com/jobs/)
+
+Banks:
+- [BigBank](https://jobs.bigbank.eu/)
+- [InBank](https://inbank.ee/en/inside/career/)
+- [LHV](https://www.lhv.ee/en/careers#vacancies)
+- [SEB](https://www.seb.ee/eng/seb/working-seb/working-seb)
+- [Swedbank](https://swedbank.easycruit.com/intranet/external/?iso=gb&search_region=country-67&search_btn=search)
 
 Also you can check StartupEstonia's (top earning companies](https://500.superangel.io/?for=Q2-2019&sortBy=revenue&sortIn=desc)
 
@@ -94,7 +103,9 @@ Food delivery:
 ## International Hiring Related Websites
 
 - [AngelList (angel.co)](https://angel.co/jobs#find/f!%7B%22locations%22%3A%5B%22398235-Tallinna%20linn%2C%20Estonia%22%5D%7D)
+- [EURES](https://www.europeanjobdays.eu/en/jobs/active?field_job_country_tid%5B%5D=80)
 - [Glassdoor](https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919.htm)
+- [HackerRank-Who is hiring](https://news.ycombinator.com/item?id=20867123)
 - [Jobrat](http://estonia.jobrat.net/)
 - [Jobvertise](http://www.jobvertise.com/jobs/search?query=&city=&country=EE&button=Search+Jobs)
 - [Linkedin](https://www.linkedin.com/jobs/search/?geoId=102974008&location=Estonia)
@@ -118,10 +129,14 @@ Sources:
 
 ---
 
+## Remote
+
+- [Crossover](https://www.crossover.com/)
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
+---
+
 ### Other Information
 
 - [tips on where to look for a job in estonia - workinestonia.com](https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/)
 - [Working - studyinestonia.ee](http://studyinestonia.ee/en/working)
-- https://www.tootukassa.ee/toopakkumised
-- https://github.com/poteto/hiring-without-whiteboards
-- https://news.ycombinator.com/item?id=20867123
