@@ -9,3 +9,6 @@ Background check per person:
 
 Consultation:
 - https://workinestonia.com/internationalhouse/consultation-sessions/?role=foreigner
+
+Agreements
+- [Model Documents by Startup Estonia](https://startupestonia.ee/resources)
