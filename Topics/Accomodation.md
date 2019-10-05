@@ -20,11 +20,12 @@ Facebook groups:
 - [EBS International Students - Housing/Accommodation](https://www.facebook.com/groups/EBSinternationalhousing/)
 
 Tallinn Hostels:
-- [Welcome Hostel](https://welcomehostel.ee/en/)
-- [Tallinn Old Town Hostels - TOTH](http://toth.ee/)
-- [Hostels.com > Tallinn](http://www.hostels.com/tallinn/estonia)
-- [Academic Hostel](https://www.academichostel.com/en/)
 - [16 euro hostels](http://16eur.ee/)
+- [Academic Hostel](https://www.academichostel.com/en/)
+- [Hostel Europhia](http://euphoria.traveller.ee/)
+- [Hostels.com > Tallinn](http://www.hostels.com/tallinn/estonia)
+- [Tallinn Old Town Hostels - TOTH](http://toth.ee/)
+- [Welcome Hostel](https://welcomehostel.ee/en/)
 
 Other Residences:
 - [Larsen Apartments](https://apartments.larsen.ee/)
