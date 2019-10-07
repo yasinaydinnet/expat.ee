@@ -12,3 +12,7 @@ Consultation:
 
 Agreements
 - [Model Documents by Startup Estonia](https://startupestonia.ee/resources)
+
+## Lawyer Services
+
+- [Hugo Legal](https://hugo.legal)
