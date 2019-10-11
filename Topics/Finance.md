@@ -4,6 +4,14 @@
 
 Can be managed with arved.ee
 
-Other:
+
+## Purchase Leasing
+
+- [esto.ee](https://esto.ee/)
+- [inbank.ee](https://inbank.ee/en/hirepurchase/)
+- [liisi.ee](https://www.holmbank.ee/en/hire-purchase/)
+
+
+## Other
 - [Identity codes of the international account numbers of credit institutions](https://www.fi.ee/en/banking-and-credit/applying-activity-licences/identity-codes-international-account-numbers-credit-institutions)
 - [Licensed credit institutions in Estonia](https://www.fi.ee/en/banking-and-credit/credit-institutions?closed=1)
