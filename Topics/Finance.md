@@ -5,11 +5,14 @@
 Can be managed with arved.ee
 
 
-## Purchase Leasing
+## Loans & Purchase Leasing
 
 - [esto.ee](https://esto.ee/)
 - [inbank.ee](https://inbank.ee/en/hirepurchase/)
 - [liisi.ee](https://www.holmbank.ee/en/hire-purchase/)
+- bigbank
+- lhv
+- ferratum
 
 
 ## Other
