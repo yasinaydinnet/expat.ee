@@ -5,3 +5,6 @@
 
 ## Moving
 - http://veotransport.ee/
+
+## Waste
+- [A Guide to Sorting Waste](https://www.tallinn.ee/eng/A-Guide-to-Sorting-Waste)
