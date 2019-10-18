@@ -16,3 +16,9 @@ Agreements
 ## Lawyer Services
 
 - [Hugo Legal](https://hugo.legal)
+
+## Trade Unions
+
+- [link 1][1]
+
+[1]: https://www.worker-participation.eu/National-Industrial-Relations/Countries/Estonia/Links
