@@ -7,3 +7,7 @@ Remote:
 Other:
 - [https://www.vettery.com](https://www.vettery.com)
 - [https://careersjs.com/](https://careersjs.com/)
+- [Fearless Salary Negotiation - fearlesssalarynegotiation.com][1]
+
+
+[1]: https://fearlesssalarynegotiation.com/
