@@ -22,3 +22,7 @@ Agreements
 - [link 1][1]
 
 [1]: https://www.worker-participation.eu/National-Industrial-Relations/Countries/Estonia/Links
+
+## Dissolving a company
+- https://e-resident.me/dissolving-estonian-company-appointing-liquidator/
+- https://learn.e-resident.gov.ee/hc/en-us/articles/360000624958-Dissolution-of-your-O%C3%9C
