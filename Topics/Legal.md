@@ -26,3 +26,5 @@ Agreements
 ## Dissolving a company
 - https://e-resident.me/dissolving-estonian-company-appointing-liquidator/
 - https://learn.e-resident.gov.ee/hc/en-us/articles/360000624958-Dissolution-of-your-O%C3%9C
+- https://estoniancompanyregistration.com/liquidation-of-an-estonian-company
+- https://www.freedomsurfer.com/business-estonia/
