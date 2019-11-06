@@ -13,3 +13,6 @@
 - [News](./Topics/News.md)
 - [Shopping](./Topics/Shopping.md)
 - [Work](./Topics/Work.md)
+
+Also:
+- [international house of estonia (IHE)](https://workinestonia.com/internationalhouse/)
