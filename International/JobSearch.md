@@ -9,6 +9,7 @@ Other:
 - [https://careersjs.com/](https://careersjs.com/)
 - [Fearless Salary Negotiation - fearlesssalarynegotiation.com][1]
 - [Interview cake][2] with [Github student pack][3]
+= [EURES](https://ec.europa.eu/eures/eures-searchengine/page/main?lang=en#/search)
 
 [1]: https://fearlesssalarynegotiation.com/
 [2]: https://www.interviewcake.com/
