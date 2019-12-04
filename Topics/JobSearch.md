@@ -106,42 +106,6 @@ Food delivery:
 
 ---
 
-## International Hiring Related Websites
-
-- [AngelList (angel.co)](https://angel.co/jobs#find/f!%7B%22locations%22%3A%5B%22398235-Tallinna%20linn%2C%20Estonia%22%5D%7D)
-- [EURES](https://www.europeanjobdays.eu/en/jobs/active?field_job_country_tid%5B%5D=80)
-- [Glassdoor](https://www.glassdoor.com/Job/tallinn-jobs-SRCH_IL.0,7_IC2775919.htm)
-- [HackerRank-Who is hiring](https://news.ycombinator.com/item?id=20867123)
-- [Jobrat](http://estonia.jobrat.net/)
-- [Jobvertise](http://www.jobvertise.com/jobs/search?query=&city=&country=EE&button=Search+Jobs)
-- [Linkedin](https://www.linkedin.com/jobs/search/?geoId=102974008&location=Estonia)
-
----
-
-## Online and Freelance
-
-Challenges:
-- Finding a job might take some 
-- Too much competititon
-- Payment might be lower
-
-Sources:
-- [Fiverr](https://www.fiverr.com/)
-- [Freelancer](https://www.freelancer.com/jobs/)
-- [Guru](https://www.guru.com/)
-- [HubStaff](https://talent.hubstaff.com/search/jobs)
-- [Toptal](https://www.toptal.com/)
-- [Upwork](https://www.upwork.com/)
-
----
-
-## Remote
-
-- [Crossover](https://www.crossover.com/)
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-
----
-
 ## Other Information
 
 - [tips on where to look for a job in estonia - workinestonia.com](https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/)
