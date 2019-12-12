@@ -1,5 +1,9 @@
 # Food
 
+## Best Restaurants
+- https://www.visittallinn.ee/eng/visitor/discover/articles-guides/best-restaurants-in-tallinn
+- https://flavoursofestonia.com/eng/restaurant-guide/
+
 ## Eastern Food
 
 Turkish Restaurants:
