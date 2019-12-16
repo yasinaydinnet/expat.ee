@@ -7,7 +7,7 @@ Real Estate Listing Websites
 
 Other Listing Websites:
 - [1Home](https://1home.eu/rooms/?location=Tallinn)
-- [Tallinn Studend Housing](http://tallinnstudent.eu/about)
+- [Tallinn Student Housing](http://tallinnstudent.eu/about)
 - [Roomster](https://www.roomster.com/haveshare/tallinn/)
 
 Facebook groups:
