@@ -108,5 +108,6 @@ Food delivery:
 
 ## Other Information
 
+- [pixel.ee](https://pixel.ee)
 - [tips on where to look for a job in estonia - workinestonia.com](https://www.workinestonia.com/tips-on-where-to-look-for-a-job-in-estonia/)
 - [Working - studyinestonia.ee](http://studyinestonia.ee/en/working)
