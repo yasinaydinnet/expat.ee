@@ -40,6 +40,7 @@ Also has jobs:
 
 ## Estonian Job Searching Websites
 
+- <https://techscene.ee>
 - [CV.ee](https://www.cv.ee/english)
 - [CV Keskus](https://www.cvkeskus.ee/)
 - [EJ.ee - EkspressJob](http://www.ej.ee/eng/?)
