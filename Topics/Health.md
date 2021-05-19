@@ -8,6 +8,9 @@
 - https://www.workinestonia.com/coming-to-estonia/health-insurance/
 - https://www.tlu.ee/en/healthcare
 
+## Covid-19
+- <http://www-1.ms.ut.ee/krista/covid/covid_pildid.html>
+
 ## Private Health Insurance
 
 You can also directly contact private health insurance companies:
