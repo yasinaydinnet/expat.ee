@@ -42,6 +42,7 @@ A person with active E-residency has:
 ## Steps: When arrived to Estonia
 - Start the job (go to the office, get/install laptop, meet people, onboarding...)
 - Settle to the house (ie Airbnb)
+- Acquire a new mobile line
 - Go to PPA and apply for TRP, including providing photo and fingerprints
 - Download R-Form for Tax Residency, sign it, send it to the MTA (Maksu ja Tolliamet-Ministry of Tax)
 - Go to own country's embassy in Estonia and register for address (to prevent social tax payments and apply for abroad voter registration
