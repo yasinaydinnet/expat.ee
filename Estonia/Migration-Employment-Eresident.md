@@ -57,6 +57,7 @@ A person with active E-residency has:
 ## After Receiving the TRP
 - Go to settleinestonia.ee and register for free Integration courses (Basic module, Employment Module and A1 Estonian language)
 - Find an english speaking Family doctor and register for it
+- Apply for European Union Health Card from eesti.ee
 - Replace your driving license with Estonian one:
   - 1. Fill application form and health decleration form online at E-patient (https://digilugu.ee)
   - 2. Get a health check from family doctor or private clinic
