@@ -24,3 +24,7 @@ Government website: https://www.valitsus.ee/en
 - Patient Portal: https://www.digilugu.ee/login?locale=en
 - [https://www.e-toimik.ee/](https://www.e-toimik.ee/) - You can query and get details of all the legal cases (criminal, civil etc...) of yours as well as get criminal record of yourself or anyone else with Estonian ID code.
 - [Open Data - riik.ee](https://opendata.riik.ee/en)
+
+## Tallinn City Government
+- Services: <https://www.tallinn.ee/eng/teenused>
+- Newsetter: <https://www.tallinn.ee/eng/Uudis-A-newsletter-for-English-speaking-Tallinners-was-launched>
